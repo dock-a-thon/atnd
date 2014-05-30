@@ -1,3 +1,11 @@
+title: Dock-a-thon #01
+sub-title: Docker, Hack-a-thon
+date: 2014-05-31 13:00 - 2014-05-31 18:00
+limit: 8
+place: 会津大学 研究棟1F コンピュータ演習室5 [std5]
+url: https://dock-a-thon.github.io
+
+
 会津大学のみんなで流行りの "Docker":https://www.docker.io/ を使い倒す、どっか損なハッカソン。それが Dock-a-thon です。
 Docker に興味がある会津大生ならどなたでも参加することができます。
 
